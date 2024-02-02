@@ -1,4 +1,4 @@
-const width = 3;
+const width = 5;
 const numberOfTriangles = 3;
 const inputs = ['#', '&', '0', '*'];
 const [leftSide, rightSide, bottomSide, fill] = inputs;

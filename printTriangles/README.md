@@ -53,9 +53,9 @@ Print `N` right triangles next to each other. They will have specified **Left si
 ### Output
 
 ```
-    #
-    #&
-    #*&
-    #**&
-    #000&
+#    #    #
+#&   #&   #&
+#*&  #*&  #*&
+#**& #**& #**&
+#000&#000&#000&
 ```
